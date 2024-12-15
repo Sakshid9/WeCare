@@ -25,7 +25,7 @@ On the homepage, use the search bar to find doctors or medical services in your 
 
 # Live Demo
 
-https://sakshid9.github.io/WE_CARE./
+ https://sakshid9.github.io/WeCare/
 
 # Contributing
 
